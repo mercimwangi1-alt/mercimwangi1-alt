@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius: 50%;" alt="Mercy">
+  <img src="assest/24.png" width="180" style="border-radius: 50%;" alt="Mercy">
 </p>## Hi there # Hi, I'm Mercy 👋🏽
 
 💻 **IT Student | Aspiring Software & Web Developer**
